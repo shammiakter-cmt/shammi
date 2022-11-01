@@ -1,0 +1,18 @@
+.bgimage{
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid;
+    
+    background:  rgb(136, 12, 136)  url(./images/images\ \(3\).jpg)  no-repeat fixed center center  ;
+    
+
+
+}
+.boxmodel{
+    background: rgb(241, 12, 12);
+    padding: 20px;
+    border: 1px solid #fff;
+    margin: 20px;
+
+}
